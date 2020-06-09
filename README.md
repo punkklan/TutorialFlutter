@@ -10,7 +10,8 @@
 > TabOut  
 > Better Comments  
 > Todo Tree  
-> Dart Data Class Generator  
+> Dart Data Class Generator 
+> Bracket Pair Colorizer  
 
 ***Aprenda utilizar o Get***  
 > **Assista:** https://www.youtube.com/watch?v=JUGkEm-fDo0&t=14s  
