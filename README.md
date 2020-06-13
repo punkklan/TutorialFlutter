@@ -20,5 +20,12 @@
 ***Estrutura básica do Flutter***  
 > [Projeto](https://github.com/punkklan/TutorialFlutter/tree/master/estrutura_base_get/lib) com 2 páginas com rotas nomeadas utilizando o pacote Get  
 
+***Json e class***
+> Utilize o site https://app.quicktype.io/ para criar a class para dart.
+> deixe ativas as opções  
+> **Put encoder & decoder in Class**  
+> **Make all properties final**  
+> **Make all properties optional**  
+> **Exemplo simples de utilização Json local** https://www.youtube.com/watch?v=_KCG9kON0T0  
 
 
