@@ -26,6 +26,10 @@
 > **Put encoder & decoder in Class**  
 > **Make all properties final**  
 > **Make all properties optional**  
-> **Exemplo simples de utilização Json local** https://www.youtube.com/watch?v=_KCG9kON0T0  
+  
+  
+> **Exemplo simples de utilização Json local**  
+> code -> https://github.com/punkklan/TutorialFlutter/tree/master/jsonlocal  
+> https://www.youtube.com/watch?v=_KCG9kON0T0  
 
 
