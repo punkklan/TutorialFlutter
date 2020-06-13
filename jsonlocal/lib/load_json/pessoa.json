@@ -1,0 +1,20 @@
+[
+    {
+        "nome" : "Marcio Winter",
+        "idade" : "40",
+        "sexo" : "masculino"
+    },
+    {
+        "nome" : "Gabi",
+        "idade" : "30",
+        "sexo" : "feminino"
+    },
+    {
+        "nome" : "Rafael Winter",
+        "idade" : "15",
+        "sexo" : "masculino"
+    }
+
+
+
+]
